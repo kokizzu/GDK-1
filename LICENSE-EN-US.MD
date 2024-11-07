@@ -2,7 +2,7 @@
 
 # MICROSOFT GAME DEVELOPMENT KIT LICENSE AGREEMENT
 
-**Last Updated: September 26, 2023**
+**Last Updated: September 26, 2024**
 
 This Microsoft Game Development Kit License Agreement (the "Agreement") is between Microsoft Corporation, a Washington corporation, or one of its affiliates ("Microsoft") and the party accepting this Agreement by clicking the box indicating acceptance ("Licensee"). By clicking the box indicating acceptance, Licensee hereby agrees to the terms of this Agreement and the Microsoft Privacy Statement set forth at https://go.microsoft.com/fwlink/?LinkId=521839,, and Licensee represents that they have the authority to enter into this Agreement. The Agreement is effective on the date Licensee clicks the box indicating acceptance ("Effective Date").
 
